@@ -10,4 +10,5 @@ concatenate them and then print it in console.
 string1 = input("Enter First String : ")
 string2 = input("Enter Second String : ")
 
-print(string1, string2)
+resultString = string1 + " " + string2
+print(resultString)
