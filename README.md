@@ -1,4 +1,5 @@
-# Practice Your Basics (Read the rules!!!)
+# Practice Your Basics 
+**Read the rules!!!, any PR that violates rules will be marked SPAM**
 A repository containing basic programming questions in C, C++, Python and Go
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest***
@@ -15,12 +16,13 @@ A repository containing basic programming questions in C, C++, Python and Go
 3. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
 4. All the files must be names as "quesn{Question_Number}.{filetype}". Example: Quesn0.cpp
 5. **Solve only 1 question in 1 PR. PRs with multiple questions will be rejected.**
-6. Incorrect solutions will not be accepted.
-7. Kindly send your institute Roll No. while making your PR.
-8. Mails regarding rejection of PRs will not be entertained.
-9. CS Club IIITDM has all rights to reject PRs and the decision made by the cores will be final in this regard.
-10. All PRs will be accepted on a **First Come First Serve Basis**. 
-11. Please give us 48hrs at max to respond to submitted PRs. 
+6. Create at most 4 PRs. Any more after that wont be accepted.
+7. Incorrect solutions will not be accepted.
+8. Kindly send your institute Roll No. while making your PR.
+9. Mails regarding rejection of PRs will not be entertained.
+10. CS Club IIITDM has all rights to reject PRs and the decision made by the cores will be final in this regard.
+11. All PRs will be accepted on a **First Come First Serve Basis**. 
+12. Please give us 48hrs at max to respond to submitted PRs. 
 
 
 ### How To:
