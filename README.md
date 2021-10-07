@@ -1,4 +1,5 @@
-# Practice Your Basics (Read the rules!!!)
+# Practice Your Basics 
+**Read the rules!!!, any PR that violates rules will be marked SPAM**
 A repository containing basic programming questions in C, C++, Python and Go
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest***
