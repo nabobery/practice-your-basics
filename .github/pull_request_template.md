@@ -2,7 +2,7 @@
 
 <!-- This is how a valid PR documentation would look like:
 
-## CED21I001, Harry Potter
+## Harry Potter, CED21I001
 ## Question number: 0
 ## Language: C
 
@@ -10,7 +10,7 @@
   Hello World! is printed to STDOUT using printf.
 -->
 
-## Nome & Roll No.: <!-- eg CED21I001, Harry Potter -->
+## Name & Roll No.: <!-- eg Harry Potter, CED21I001 -->
 ## Question number: <!-- Question-Number-Solved -->
 ## Language: <!-- C/C++/Python -->
   
